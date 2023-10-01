@@ -1,9 +1,8 @@
 [package]
-name = "handmade"
+name = "mantle"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
-objc = "0.2.7"
+tao = "0.22.2"
+
